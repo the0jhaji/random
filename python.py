@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 
 start_date = datetime(2025, 1,1)
-end_date = datetime(202, 12,4)
+end_date = datetime(2026, 9,25)
 
 current_date = start_date
 
