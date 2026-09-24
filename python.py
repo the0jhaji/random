@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime, timedelta
 
 
-start_date = datetime(2025, 1,1)
+start_date = datetime(2024, 8,18)
 end_date = datetime(2026, 9,25)
 
 current_date = start_date
